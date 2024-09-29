@@ -1,0 +1,10 @@
+# Set the default behavior to automatically normalize line endings
+* text=auto
+
+# Explicitly define line endings for specific file types
+*.sh text eol=lf
+*.ps1 text eol=lf
+*.html text eol=lf
+*.js text eol=lf
+*.css text eol=lf
+*.json text eol
